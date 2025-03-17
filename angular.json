@@ -4,7 +4,7 @@
   "newProjectRoot": "projects",
   "projects": {
     "angular-app": {
-      "defaultProject": "angular-app",
+      
       "root": "",
       "sourceRoot": "src",
       "projectType": "application",
